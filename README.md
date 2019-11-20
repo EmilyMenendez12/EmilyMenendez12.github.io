@@ -58,7 +58,7 @@
 </body>
 </html>
 <h2> “Programs must be written for people to read, and only incidentally for machines to execute.” ...</h2> 
-<h1 style="background-color:pink;">My First Website</h1>
+<h1 style="background-color:pink;">IB WEBSITE</h1>
  </th>  
 <head>
         <title>
