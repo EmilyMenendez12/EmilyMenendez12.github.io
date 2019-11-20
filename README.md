@@ -1,51 +1,9 @@
 # EmilyMenendez12.github.io
-</head>
 
-	<body>
-	    <div class="title">
-	        My Personal Page
-	    </div>
-
-	    <div class="featured">
-	        <h1>Quick Facts</h1>
-	        <ul>
-	            <li><span class="feat-title"> Age: </span>14 </li>
-	            <li><span class="feat-title"> School: </span>Coral Gables Senior High School  </li>
-	            <li><span class="feat-title"> Foods: </span>food</li>
-	        </ul>
-
-	    </div>
-
-	    <h2>My family</h2>
-	        <p>
-	           <span class="feat-title"> Uncle: </span>Fill in
-	       </p>
-	       <p>
-	           <span class="feat-title"> Mom: </span> Fill in
-	       </p>
-	       <p>
-	            <span class="feat-title"> Sister: </span>Fill in
-	       </p>       
-	    </div>
-	    <div class="content">
-	        <h1>Why do I study HTML and CSS</h1>
-	        <h2>Coding fundamentals</h2>
-	        <p>
-	            I am gaining an introduction to some of the principals of coding. 
-	            I am learning to be fastidious and meticulous in my actions since 
-	            computers pay attention to detail.
-	        </p>
-
-	        <h2>Value</h2>
-	        <p>
-	            Businesses require websites in the modern world. An effective and powerful website 
-	            can attract customers. 
-	        </p>
-
-	</body>
-</html>
-
-
+	  
+	  
+	  
+	  
 <!DOCTYPE html>
   <html>
     <head>
@@ -66,25 +24,7 @@
         </title>
     </head>
 
-    <body style="background-color:white;">
-
-        <table border="2" style="font-size:15px;">
-            <tr style="color:blue; font-size:30px;">
-                <th>word</th>
-                <th>definition</th>
-
-            </tr>
-            <tr style="color:teal;">
-                <td>packets</td>
-                <td>a segment of data sent from one computer or device to another over a network.</td>
-
-            </tr>
-            <tr style="color:magenta;">
-                <td>router</td>
-                <td>a device that forwards data packets along networks.</td>
-
-            </tr>
-            <tr style="color:salmon;">
+  
 definitions for programming class
                 <td>redundancy</td>
                 <td> the duplication of critical components or functions of a system with the intention of increasing reliability of the system, usually in the form of a backup or fail-safe, or to improve actual system performance, such as in the case of GNSS receivers, or multi-threaded computer processing.</td>
@@ -92,12 +32,7 @@ definitions for programming class
           <tr
  style="color:purple;">        
 
-              <td>protocol</td>
-
-                  <td> a set of rules or procedures for transmitting data between electronic devices, such as computers.</td>
-            </tr>
-        </table>
-    </body>
+           
 
  <!DOCTYPE html> 
 <html>
@@ -133,3 +68,4 @@ definitions for programming class
 </html>
 © 2019 GitHub, Inc.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X4rU02088Xc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h2> The IB offers an education for students from age 3 to 19, comprising of four programmes that focus on teaching students to think critically and independently, and how to inquire with care and logic. The IB prepares students to succeed in a world where facts and fiction merge in the news, and where asking the right questions is a crucial skill that will allow them to flourish long after they’ve left our programmes. We are supported by IB teachers and coordinators who develop and promote the IB’s curriculums in almost 5,000 schools globally every day, in over 150 countries around the world.</h2>
